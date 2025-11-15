@@ -1,0 +1,7 @@
+organization=feirouz
+projectKey=feirouz_test1sonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.76401
+dashboardUrl=https://sonarcloud.io/dashboard?id=feirouz_test1sonar
+ceTaskId=AZpi_ydjTfjArgp0CcEI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZpi_ydjTfjArgp0CcEI
